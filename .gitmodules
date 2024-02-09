@@ -5,6 +5,9 @@
 [submodule "HCD"]
 	path = HCD
 	url = https://github.com/cran/HCD
+[submodule "NetworkReg"]
+	path = NetworkReg
+	url = https://github.com/cran/NetworkReg
 [submodule "randnet"]
 	path = randnet
 	url = https://github.com/cran/randnet
